@@ -1,0 +1,54 @@
+h2 {
+  font-family: "Inconsolata", monospace;
+  font-size: 24px;
+  font-weight: 700;
+  left: 77px;
+  position: absolute;
+  top: 40px;
+}
+
+.container {
+  margin: 265px auto 200px;
+}
+
+.text {
+  padding: 0 0 0 30px;
+}
+
+h1 {
+  font-family: "Space Mono", monospace;
+  font-size: 64px;
+  font-weight: 700;
+}
+
+p {
+  font-family: "Space Mono", monospace;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 64px;
+  margin-top: 36px;
+}
+
+.homepage-button {
+  background-color: rgba(51, 51, 51, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: "Space Mono", monospace;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 24px 43px;
+  text-decoration: none;
+}
+
+footer p {
+  color: rgba(189, 189, 189, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0 auto 24px;
+  text-align: center;
+}
+
+footer a {
+  color: rgba(189, 189, 189, 1);
+  font-weight: 700;
+}
